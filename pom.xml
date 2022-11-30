@@ -58,6 +58,9 @@
                                 <rule>
                                     <limits>
                                         <limit>
+                                            <counter>LINE</counter>
+                                            <value>COVEREDRATIO</value>
+                                            <minimum>100%</minimum>
                                         </limit>
                                     </limits>
                                 </rule>
